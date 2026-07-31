@@ -22,6 +22,6 @@ clang++ -std=c++14 \
   -x c++ ../screen_oil.ino \
   -x c++ ../screen_gforce.ino \
   -x none build/liblvgl.a \
-  -o build/hud_sim
+  -o build/car_gauge_sim
 
-./build/hud_sim
+./build/car_gauge_sim

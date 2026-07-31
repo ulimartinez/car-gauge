@@ -1,4 +1,4 @@
-// Headless LVGL "viewer" for the HUD project's screen files. Renders each
+// Headless LVGL "viewer" for the car-gauge project's screen files. Renders each
 // screen once (using the same build_xxx_screen()/update_xxx_screen() code
 // that runs on the real hardware) and dumps it to a BMP image, so screen
 // layout/color changes can be checked without flashing a physical board.
